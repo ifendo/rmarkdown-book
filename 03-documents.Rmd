@@ -85,7 +85,7 @@ output:
 ---
 ```
 
-Note that if you do choose to use the `number_sections` option, you will likely also want to use `#` (H1) headers in your document as `##` (H2) headers will include a decimal point, because without H1 headers, you H2 headers will be numbered with `0.1`, `0.2`, and so on.
+Note that if you do choose to use the `number_sections` option, you will likely also want to use `#` (H1) headers in your document as `##` (H2) headers will include a decimal point, because without H1 headers, your H2 headers will be numbered with `0.1`, `0.2`, and so on.
 
 ### Tabbed sections
 
